@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+		    Contact Info
+		</title>
+    </head>
+    <body>
+            <h1>
+		        Family Blood bank
+	        </h1>
+    </body>
+</html>
+<nav>
+        <b><a href="index.html">Home</a> &nbsp;
+	        <a href="Prices.html">Prices</a> &nbsp;
+	        <a href="idk.html">idk</a> &nbsp;
+	        <a href="about.html">About</a>
+	    </b>
+</nav>
+<h1> Contact us </h1>
+<form>
+<fieldset>
+    <legend>
+        Contact Information
+	</legend>
+	<label>First name: <input type="text" name="fname" id="fname"></label><br><br>
+	<label>Last name: <input type="text" name="lname" id="lname"></label><br><br>
+	<label>E-mail: <input type="text" name="email" id="email"></label><br><br>
+</fieldset>
+</form>
+Comments:<br>
+	<textarea name="comments" id="comments" rows="7" cols="40"></textarea><br><br>
+	<input type="submit" value="submit">
+<div>
+    <strong>
+	    Family Blood Bank
+	</strong>
+	<br>
+	    784 Sickwood Drive
+	<br>
+	Fayetteville, NC 28350
+	<br>
+	910-576-6872
+	<br><br>
+</div>
+<footer>
+    <small>
+	    <i>
+		Copyright &copy; 2018 Family Blood Bank
+		    <br>
+			    <a href="mailto:Joshua@Hepburn.com">Joshua@Hepburn.com</a>
+			</br>
+		</i>
+	</small>
+</footer>

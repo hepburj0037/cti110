@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+		    Family Blood
+		</title>
+    </head>
+    <body>
+            <h1>
+		        Family Blood bank
+	        </h1>
+    </body>
+</html>
+<nav>
+        <b><a href="index.html">Home</a> &nbsp;
+	        <a href="Prices.html">Prices</a> &nbsp;
+	        <a href="idk.html">idk</a> &nbsp;
+	        <a href="About.html">About</a>
+	    </b>
+</nav>
+<table border="1">
+    <tr>
+	    <td rowspan="3">Blood Type A</td>
+		<td>1 Pint is $15</td>
+	</tr>
+	<tr>
+		<td>2 Pints is $22</td>
+	</tr>
+	<tr>
+		<td>3 Pints is $31</td>
+	</tr>
+</table>
+<table border="1">
+    <tr>
+	    <td rowspan="3">Blood Type B</td>
+		<td>1 Pint is $13</td>
+	</tr>
+	<tr>
+		<td>2 Pints is $19</td>
+	</tr>
+	<tr>
+		<td>3 Pints is $27</td>
+	</tr>
+</table>
+<table border="1">
+    <tr>
+	    <td rowspan="3">Blood Type AB</td>
+		<td>1 Pint is $18</td>
+	</tr>
+	<tr>
+		<td>2 Pints is $26</td>
+	</tr>
+	<tr>
+		<td>3 Pints is $34</td>
+	</tr>
+</table>

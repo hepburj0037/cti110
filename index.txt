@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+		    Family Blood
+		</title>
+    </head>
+    <body>
+            <h1>
+		        Family Blood bank
+	        </h1>
+    </body>
+</html>
+<nav>
+        <b><a href="index.html">Home</a> &nbsp;
+	        <a href="Prices.html">Prices</a> &nbsp;
+	        <a href="idk.html">idk</a> &nbsp;
+	        <a href="About.html">About</a>
+	    </b>
+</nav>
+<div>
+    <strong>
+	    Family Blood Bank
+	</strong>
+	<br>
+	    784 Sickwood Drive
+	<br>
+	Fayetteville, NC 28350
+	<br>
+	910-576-6872
+	<br><br>
+</div>
+<footer>
+    <small>
+	    <i>
+		Copyright &copy; 2018 Family Blood Bank
+		    <br>
+			    <a href="mailto:Joshua@Hepburn.com">Joshua@Hepburn.com</a>
+			</br>
+		</i>
+	</small>
+</footer>
